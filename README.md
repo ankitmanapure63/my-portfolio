@@ -1,67 +1,74 @@
 # 💼 Ankit Manapure – Developer Portfolio
 
 Welcome to my personal developer portfolio!  
-I'm Ankit Manapure, a self-taught Python & Django web developer passionate about backend development, web apps, and automation.
-
-This portfolio showcases my skills, projects, and contact information to help clients, recruiters, and collaborators connect with me.
+I'm a self-taught Python and Django developer with a passion for backend development, clean UI, and building useful web apps.
 
 ---
 
-## 🌐 Live Website
+## 🌐 Live Portfolio
 
-👉 [Visit My Portfolio](https://your-portfolio-link.com)
+👉 [Visit Portfolio Website](https://ankitmanapure63.github.io/my-portfolio/)
 
----
-
-## 🔧 Tech Stack
-
-- 💻 HTML5, CSS3
-- 🐍 Python
-- 🌐 Django (for backend projects)
-- 🛢️ MySQL
-- 🧩 Git & GitHub
-- 🎨 Responsive Design
+This site includes my bio, skills, featured projects, and contact info — fully responsive and beginner-friendly.
 
 ---
 
-## 📁 Features
+## 🧰 Tech Stack
 
+- HTML5, CSS3
+- Python
+- Django (for backend projects)
+- MySQL
+- Git & GitHub
+
+---
+
+## 📁 Project Features
+
+- Responsive design for mobile and desktop
 - About Me section
 - Skills & tools overview
-- Projects with GitHub and YouTube links
-- Contact form (or social media links)
-- Clean and responsive design
+- Projects area (with GitHub & YouTube links)
+- Contact/social links
 
 ---
 
-## 📸 Preview
+## 🎥 YouTube Channel
 
-![Portfolio Screenshot](https://your-image-link.com)
+👉 [Coder-AM – YouTube Channel](https://www.youtube.com/channel/UCe9IdU2Hk28-hXRc2stEPQA)
 
----
-
-## 🧑‍💻 Projects Included
-
-| Project Name | Tech Stack        | Links                           |
-|--------------|-------------------|----------------------------------|
-| Flight Booking App | Django, MySQL     | [GitHub](#) • [YouTube](#)     |
-| TravelVerse UI Clone | HTML, CSS        | [GitHub](#) • [Live Demo](#)   |
-| Python Roadmap Playlist | Python (Tutorials) | [YouTube Playlist](#)         |
+On this channel, I share:
+- Python tutorials (in Hindi)
+- Django projects
+- Web development roadmaps
+- Career tips for self-taught developers
 
 ---
 
-## 📬 Contact Me
+## 📝 How to Use This Repo
 
-Feel free to reach out via:
+You’re free to:
+- Explore the code structure
+- Get inspired for your own portfolio
+- Reuse layout with credit
 
-- 📧 Email: your-email@example.com  
-- 🔗 [LinkedIn](https://linkedin.com/in/yourname)  
-- 📺 [YouTube](https://youtube.com/@yourchannel)  
-- 🐙 [GitHub](https://github.com/ankitmanapure)
+To run locally:
+1. Clone this repo
+2. Open `index.html` in your browser
 
 ---
 
-## 📝 License
+## 📬 Contact
 
-This project is open for learning and inspiration. Please give credit if you fork or reuse.
+- GitHub: [ankitmanapure63](https://github.com/ankitmanapure63)
+- YouTube: [Code With Ankit](https://www.youtube.com/channel/UCe9IdU2Hk28-hXRc2stEPQA)
+- Email: your-email@example.com *(update this)*
+
+---
+
+## 🏷️ License
+
+This project is open for educational use. Please give credit if you reuse or modify it.
+
+
 
