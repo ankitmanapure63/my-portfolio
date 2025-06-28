@@ -1,0 +1,154 @@
+<!DOCTYPE html>a
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Code With Ankit</title>
+  <link rel="stylesheet" href="practice.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css" />
+</head>
+<body>
+
+  <!-- Header -->
+  <div class="header">
+    <div class="logo-title">
+      <img src="logo.jpg.jpg" alt="logo" class="logo"/>
+      <h2>Code With Ankit</h2>
+    </div>
+    <nav class="navbar">
+      <a href="#home">Home</a>
+      <a href="#about">About</a>
+      <a href="#projects">Projects</a>
+      <a href="#skills">Skills</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </div>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero-section">
+    <div class="content">
+      <h1>Hello, I'm Ankit Manapure</h1>
+      <h2>Full Stack Python Developer</h2>
+      <p>I'm skilled in Django, HTML, CSS, and JavaScript</p>
+      <p>Building complete web apps from backend to frontend</p>
+      <div class="buttons">
+        <button class="btn">Hire Me</button>
+        <button class="btn">Let's Talk</button>
+      </div>
+    </div>
+
+    <!-- Social Media Icons -->
+    <div class="social-icons">
+      <a href="https://wa.me/917558686326" target="_blank" class="icon-btn" title="WhatsApp">
+        <i class="fab fa-whatsapp fa-2x"></i>
+      </a>
+      <a href="https://www.linkedin.com/in/yourprofile" target="_blank" class="icon-btn" title="LinkedIn">
+        <i class="fab fa-linkedin fa-2x"></i>
+      </a>
+      <a href="https://github.com/yourusername" target="_blank" class="icon-btn" title="GitHub">
+        <i class="fab fa-github fa-2x"></i>
+      </a>
+      <a href="https://discordapp.com/users/yourID" target="_blank" class="icon-btn" title="Discord">
+        <i class="fab fa-discord fa-2x"></i>
+      </a>
+    </div>
+  </section>
+
+  <!-- About Me Section -->
+  <section id="about" class="about-section">
+    <div class="about-container">
+      <div class="about-photo">
+        <img src="ankit.jpg" alt="Ankit Manapure" />
+      </div>
+      <div class="about-content">
+        <h2>About Me</h2>
+        <p>
+          Hello! I'm <strong>Ankit Manapure</strong>, a passionate Full Stack Python Developer based in Nagpur, India.
+          I specialize in building robust, scalable web applications using Django, HTML, CSS, and JavaScript.
+        </p>
+        <p>
+          From backend logic to beautiful frontends, I thrive on creating clean, efficient code and
+          seamless user experiences.
+        </p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Projects Section -->
+  <section id="projects" class="projects-section">
+    <h2>Projects</h2>
+    <div class="projects-grid">
+      <div class="project-card">
+        <h3>BlogX</h3>
+        <p>A dynamic blog platform built with Django.</p>
+        <span>Tech: Django, HTML, CSS, SQLite</span>
+        <a href="https://github.com/yourusername/blogx" target="_blank">View on GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>WeatherNow</h3>
+        <p>Real-time weather app using OpenWeatherMap API.</p>
+        <span>Tech: JavaScript, HTML, CSS</span>
+        <a href="https://github.com/yourusername/weathernow" target="_blank">View on GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>TaskMate</h3>
+        <p>A to-do app with authentication.</p>
+        <span>Tech: Django, HTML, Bootstrap</span>
+        <a href="https://github.com/yourusername/taskmate" target="_blank">View on GitHub</a>
+      </div>
+      <div class="project-card">
+        <h3>Portfolio Website</h3>
+        <p>Personal responsive portfolio site.</p>
+        <span>Tech: HTML, CSS, FontAwesome</span>
+        <a href="#">Live Preview</a>
+      </div>
+      <div class="project-card">
+        <h3>ContactMe Backend</h3>
+        <p>Backend for storing contact form submissions.</p>
+        <span>Tech: Django, PostgreSQL</span>
+        <a href="https://github.com/yourusername/contactme-backend" target="_blank">View on GitHub</a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Skills Section -->
+  <section id="skills" class="skills-section">
+    <h2>Skills</h2>
+    <div class="skills-grid">
+      <div class="skill-card"><i class="fab fa-python"></i><p>Python</p></div>
+      <div class="skill-card"><i class="fas fa-code"></i><p>Django</p></div>
+      <div class="skill-card"><i class="fab fa-html5"></i><p>HTML5</p></div>
+      <div class="skill-card"><i class="fab fa-css3-alt"></i><p>CSS3</p></div>
+      <div class="skill-card"><i class="fab fa-js-square"></i><p>JavaScript</p></div>
+      <div class="skill-card"><i class="fas fa-database"></i><p>SQL</p></div>
+      <div class="skill-card"><i class="fas fa-database"></i><p>PostgreSQL</p></div>
+    </div>
+  </section>
+
+
+<!-- Contact Section -->
+<section id="contact" class="contact-section">
+  <h2>Contact Me</h2>
+  <p>Have a question or want to work together? Reach out below!</p>
+
+  <!-- Contact Info -->
+  <div class="contact-info">
+    <p><i class="fas fa-phone"></i> <a href="tel:+917558686326">+91 7558686326</a></p>
+    <p><i class="fas fa-envelope"></i> <a href="mailto:ankitmanapure.dev@gmail.com">ankitmanapure81@gmail.com</a></p>
+  </div>
+
+  <!-- Contact Form -->
+  <div class="contact-container">
+    <form action="https://formspree.io/f/your_form_id" method="POST" class="contact-form">
+      <input type="text" name="name" placeholder="Your Name" required />
+      <input type="email" name="email" placeholder="Your Email" required />
+      <textarea name="message" rows="5" placeholder="Your Message" required></textarea>
+      <button type="submit" class="btn">Send Message</button>
+    </form>
+  </div>
+</section>
+
+
+
+</body>
+</html>
