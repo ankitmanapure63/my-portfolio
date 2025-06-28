@@ -16,6 +16,7 @@ This site includes my bio, skills, featured projects, and contact info — fully
 ## 🧰 Tech Stack
 
 - HTML5, CSS3
+- JS
 - Python
 - Django (for backend projects)
 - MySQL
@@ -37,7 +38,7 @@ This site includes my bio, skills, featured projects, and contact info — fully
 
 👉 [Coder-AM – YouTube Channel](https://www.youtube.com/channel/UCe9IdU2Hk28-hXRc2stEPQA)
 
-On this channel, I share:
+On this channel, I share: (In progress)
 - Python tutorials (in Hindi)
 - Django projects
 - Web development roadmaps
@@ -62,7 +63,7 @@ To run locally:
 
 - GitHub: [ankitmanapure63](https://github.com/ankitmanapure63)
 - YouTube: [Code With Ankit](https://www.youtube.com/channel/UCe9IdU2Hk28-hXRc2stEPQA)
-- Email: your-email@example.com *(update this)*
+- Email: ankitmanapure63@gmail.com
 
 ---
 
